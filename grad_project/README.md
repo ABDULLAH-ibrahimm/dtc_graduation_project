@@ -1,4 +1,4 @@
-﻿# graduation_project-Depi (Integrated Data Infrastructure(online Retail)
+﻿# graduation_project-DTC (Integrated Data Infrastructure(online Retail)
  
 #  Overview
 This project demonstrates the development of an efficient and scalable ETL (Extract, Transform, Load) data pipeline that processes data from multiple sources (CSV, XML, JSON) and loads it into a centralized data warehouse.

@@ -21,7 +21,7 @@ Hadoop & Apache Spark: Big data frameworks for distributed storage and real-time
 Power BI & Python: Tools for creating custom visualizations and interactive dashboards.
 
 # Acknowledgements
-We extend my gratitude to  DTC for their support and guidance throughout the project.
+I extend my gratitude to  DTC for their support and guidance throughout the project.
 
 
   
